@@ -1,7 +1,7 @@
 ---
 author: "Wamo"
 title: "Image Test"
-image: "/img/prism.jpg"
+image: "/labveiltec/img/prism.jpg"
 draft: false
 date: 2024-10-31
 description: "Image Test"

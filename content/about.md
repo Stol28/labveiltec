@@ -14,7 +14,7 @@ Je suis Steve Pasche, un designer passionné spécialisé en UX/UI, avec une exp
 
 Mon Ikigai symbolise mon désir d'équilibrer passion, mission, profession et vocation. Il guide ma manière d'aborder les projet, influençant directement ma conception d'interfaces et d'expériences utilisateur. L'illustration ci-dessous représente cet Ikigai, qui reflète ce qui m'inspire au quotidien.
 
-{{< image src="/img/ikigai.png" alt="Mon Ikigai" >}}
+{{< image src="/labveiltec/img/ikigai.png" alt="Mon Ikigai" >}}
 
 ### Projets récents
 

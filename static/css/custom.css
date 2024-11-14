@@ -1,0 +1,16 @@
+/* 
+ This CSS file is used to override the existing styles of the theme.
+ You can change the article headings, fonts, colors, etc.
+*/
+
+/* Classe pour l'image avec une taille personnalisée */
+.img-custom {
+  /* J'aimerais que l'image ait une taille max de 400px mais qu'elle se réduise quand on diminue la taille de la fenêtre et qu'elle soit centée */
+  max-width: 450px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  

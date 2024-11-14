@@ -16,7 +16,7 @@ Que vous ayez des questions, un projet en tête ou une opportunité à proposer,
 
 Pour les demandes professionnelles, les projets ou collaborations, n’hésitez pas à m’envoyer un email :
 
-[**steve.pasche@email.com**](mailto:steve.pasche@email.com)
+[**cliquez pour m'envoyer un mail**](mailto:steve.pasche@heig-vd.ch.com)
 
 ---
 
@@ -34,7 +34,7 @@ Découvrez mes projets récents et quelques aperçus de mon code et de mes idée
 
 #### 🌐 Réseaux sociaux
 
-Je partage également des inspirations et ressources en design :
+Je partage également des inspirations et ressources en design : (réseaux fictifs)
 
 - **Instagram** : [@stevepasche_design](https://instagram.com/stevepasche_design)
 - **Twitter** : [@StevePascheUX](https://twitter.com/StevePascheUX)

@@ -8,7 +8,7 @@ author = "Steve Pasche"
 
 ### Qui suis-je ?
 
-Je suis Steve Pasche, un designer passionné spécialisé en UX/UI, avec une expertise dans la création de solutions numériques centrées sur l'humain. Mon parcours en design de produits et en gestion de projets m'a amené à collaborer sur des projets variés. Je vais prochainement terminer mon Bachelor COMEM+ et avec une expérience dans le design pour des entreprises comme Swissquote, je cherche à transformer chaque interaction en une expérience intuitive et fluide.
+Je suis Steve Pasche, un designer passionné spécialisé en UX/UI, avec une expertise dans la création de solutions numériques centrées sur l'humain. Mon parcours en design de produits et en gestion de projets m'a amené à collaborer sur des projets variés. Je vais prochainement terminer mon Bachelor COMEM+ et avec une passion pour le design, je cherche à transformer chaque interaction en une expérience intuitive et fluide.
 
 ### Mon Ikigai
 

@@ -17,7 +17,7 @@ Comprendre comment les utilisateurs interagissent visuellement avec une interfac
 Lisez l'article complet sur [iMotions](https://imotions.com/blog/learning/10-terms-metrics-eye-tracking/#7-fixation-sequences).  
 <!--more-->
 
-### Pourquoi C'est Important pour Moi  
+### Pourquoi c'est important pour moi
 
 Le suivi oculaire renforcera ma capacité à concevoir des interfaces en phase avec le comportement réel des utilisateurs. Par exemple, des projets comme la refonte de l’application Swissquote au quel j'ai participé, pourraient tirer parti des heatmaps pour garantir que les éléments critiques soient visuellement accessibles et intuitifs.
 

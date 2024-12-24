@@ -17,7 +17,7 @@ archives = ["2024/11"]
 La veille est une étape clé pour évoluer en tant que designer UX, car elle permet de rester à jour sur les tendances, les outils et les bonnes pratiques. Pour cela, j’ai mis en place un système d’écoute et de recherche structuré qui me permet de trouver, trier et conserver les meilleures ressources.  
 <!--more-->
 
-### Trouver les Informations  
+### Trouver les informations  
 
 Mon système de veille s’appuie sur plusieurs outils et plateformes :   
 - **Réseaux sociaux professionnels** : LinkedIn est une excellente plateforme pour découvrir des articles partagés par des experts et suivre les tendances émergentes.  
@@ -25,7 +25,7 @@ Mon système de veille s’appuie sur plusieurs outils et plateformes :
 
 En parallèle, je mets des alertes sur Google Alerts pour recevoir directement des mises à jour sur des mots-clés comme *"usability testing"* ou *"UX tools trends"*.  
 
-### Organiser et Conserver  
+### Organiser et conserver  
 
 Une fois les informations trouvées, je les trie et les classe pour une consultation future :  
 - **Notion** : Je centralise les articles dans une base de données avec des tags comme *"outils"*, *"recherche utilisateur"* ou *"accessibilité"*. Cela me permet de les retrouver facilement selon mes besoins.  
@@ -33,13 +33,13 @@ Une fois les informations trouvées, je les trie et les classe pour une consulta
 
 J’ajoute des annotations ou des mots-clés à ces ressources pour ne pas perdre de temps en relecture lorsque je les consulte à nouveau.  
 
-### Exploitation des Ressources  
+### Exploitation des ressources  
 
 Grâce à ce système, j’ai pu :  
 - Découvrir des outils comme Maze et Hotjar pour le testing utilisateur. 
 - Améliorer ma compréhension de l’UX writing en lisant des analyses spécifiques à ce domaine.  
 
-### Si Je N’avais Pas Ce Système  
+### Si je n’avais pas ce système  
 
 Sans cette structure, je risquerais de me perdre dans l’abondance d’informations disponibles. Pour éviter cela, je pourrais ajouter :  
 - Une analyse automatique des articles via des outils d’IA comme ChatGPT ou Notion AI.  

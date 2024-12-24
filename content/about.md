@@ -8,7 +8,7 @@ author = "Steve Pasche"
 
 ### Qui suis-je ?
 
-Je suis Steve Pasche, un designer passionné spécialisé en UX, avec une expertise dans la création de solutions numériques centrées sur l'humain. Mon parcours en design de produits et en gestion de projets m'a amené à collaborer sur des projets variés. Je vais prochainement terminer mon Bachelor COMEM+ et avec une passion pour le design, je cherche à transformer chaque interaction en une expérience intuitive et fluide.
+Je suis Steve Pasche, un designer passionné spécialisé en UX, avec une expertise dans la création de solutions numériques centrées sur l'humain. Mon parcours en design de produits et en gestion de projets m'a amené à collaborer sur des projets variés. Je vais prochainement terminer mon Bachelor COMEM+, je cherche à transformer chaque interaction en une expérience intuitive et fluide.
 
 ### Mon Ikigai
 
@@ -32,4 +32,4 @@ UX Design, Conception d'interfaces, Expérience utilisateur, Human centered desi
 
 ### Pourquoi j'ai choisi Hugo comme SSG ?
 
-J’ai choisi Hugo pour sa simplicité, sa rapidité et sa flexibilité. En tant que designer, j'apprécie son contrôle sur la structure et le contenu, ainsi que la possibilité d'intégrer des outils personnalisés. Hugo est idéal pour un site rapide et optimisé pour l'expérience utilisateur.
+J’ai choisi Hugo pour sa simplicité, sa rapidité et sa flexibilité. En tant que designer, j'apprécie son contrôle sur la structure et le contenu, ainsi que la possibilité d'intégrer des outils personnalisés.

@@ -18,7 +18,7 @@ L’article du Nielsen Norman Group met en lumière la manière dont l’IA red�
 Lisez l'article complet sur [NNG Group](https://www.nngroup.com/articles/research-with-ai/).  
 <!--more-->
 
-### Pourquoi C'est Important pour Moi  
+### Pourquoi c'est important pour moi
 
 Utiliser l’IA pour analyser les retours utilisateurs permettra de gagner du temps sur des projets de grande envergure. Ils pourrait tirer parti de l’IA pour traiter efficacement les avis sur les stores d’applications ou les retours fait lors de conférences. Tout ceci faciliterait ainsi les décisions basées sur les données et permetterait de faciliter la recherche utilisateur.
 

@@ -18,7 +18,7 @@ De Figma pour la collaboration en temps réel à Khroma pour des palettes de cou
 Lisez l'article complet sur [Procreator](https://procreator.design/blog/must-have-ux-ui-design-tools/).  
 <!--more-->
 
-### Pourquoi C'est Important pour Moi  
+### Pourquoi c'est important pour moi
 
 Intégrer des outils comme Maze pour les tests d'utilisabilité ou Magician pour des suggestions générées par IA enrichira mon processus de conception. Ces innovations seront particulièrement utiles pour des projets nécessitant des itérations rapides, comme des plateformes de présentation d'étudiants ou des applications éducatives. De plus cet article me permet de mieux connaitres les outils actuels, qui pourrait m'être demandé d'utiliser dans le futur.
 
